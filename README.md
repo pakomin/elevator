@@ -42,3 +42,7 @@ Scheduling Algorithm: step:
   set stops of current floor state to 0 in the array.
  
 
+goto x y
+1. occupants of elevator x want to go to y
+
+
